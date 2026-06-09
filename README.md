@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritobroto20061612
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently in class 11th,preparing for my IIT JEE examinations in 2025 and hoping to pursue with the dream of the software engineering
+- 👀 I’m interested in breaking into the field of Quantitative finance as a trader.
+- 🌱 I’m currently an undergrad with a major in Statistics and having CS as a minor.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
